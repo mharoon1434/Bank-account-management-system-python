@@ -35,10 +35,8 @@ README.md                # Project documentation
 <ol>
     <li>Clone the repository:</li>
     <pre style="background:#f1f1f1; padding:10px; border-radius:6px;">git clone https://github.com/your-username/bank-account-management-system-python.git</pre>
-
     <li>Navigate to project folder:</li>
     <pre style="background:#f1f1f1; padding:10px; border-radius:6px;">cd bank-account-management-system-python</pre>
-
     <li>Run the program:</li>
     <pre style="background:#f1f1f1; padding:10px; border-radius:6px;">python bank_account_system.py</pre>
 </ol>
